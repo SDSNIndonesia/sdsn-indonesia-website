@@ -1,15 +1,15 @@
 {
-  "logo": "/uploads/sdsn-antarc.png",
+  "logo": "/uploads/indonesia-sdsn-logo.jpg",
   "whitelogo": "/uploads/sdsn-antsarc.png",
-  "favicon": "/uploads/favicon.png",
-  "networkName": "Antarctica",
-  "networkDesc": "<p>SDSN Antarctica is a community of universities, research centers, and other knowledge institutions to translate the latest expertise in sustainable development into action.</p>",
-  "networkVision": "Mobilizing SDG implementation through solution initiatives and long-term pathways in Antarctica.",
-  "networkVisionSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.",
+  "favicon": "/uploads/indonesia-sdsn-logo.jpg",
+  "networkName": "Indonesia",
+  "networkDesc": "<p><em>SDSN Indonesia is a network of universities, non-governmental organizations, research centers and civil society organizations that links Indonesia’s institutions to the global discussion on universal agenda to increase the collaboration and development of long-term transformational pathways towards the Sustainable Development Goals.</em></p>",
+  "networkVision": "Mobilizing SDG implementation through solution initiatives and long-term pathways in Indonesia.",
+  "networkVisionSubtitle": "Oversees the network development represented by universities, non-governmental organizations, research centers, and civil society organizations to support SDGs 2030 Agenda in Indonesia.",
   "networkObjectives": [
     {
-      "header": "Localize the SDGs to Antarctica 1",
-      "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.</p>",
+      "header": "Knowledge-sharing",
+      "desc": "<p><em>To be a platform of sharing knowledge among members towards their activities in implementing SDGs in university/organization</em></p>",
       "link": ""
     },
     {
