@@ -8,9 +8,7 @@ tags:
 - Biodiversity
 title: 'Indonesia SDG Symposium: Sustainability Science and Solutions in the era of
   the SDGs'
-desc: "<p>On 29 April, 2019, SDSN Indonesia co-hosted a symposium at the National
-  Library of Science of Indonesia to explore the role of science to support the SDGs,
-  and to launch the SDG Hub at the University of Indonesia. </p>"
+desc: "<p></p>"
 fImage: ''
 featuredToggle: false
 aboutAuthor: ''

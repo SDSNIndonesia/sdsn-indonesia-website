@@ -8,10 +8,7 @@ tags:
 - Tsinghua University
 - Conference
 title: 'Kura Kura Bali: Creating an Innovative Island of Sustainable Solutions'
-desc: '<p>The Sustainable Development Solutions Network <a href="https://networks.unsdsn.org/southeast-asia/"
-  title="Link: https://networks.unsdsn.org/southeast-asia/">Southeast Asia Network
-  (SDSN SEA)</a> co-hosted a conference dedicated to the topic of blended finance
-  October 9-11, 2018.</p>'
+desc: "<p></p>"
 fImage: "/uploads/kura-kura-bali.png"
 featuredToggle: false
 aboutAuthor: ''
