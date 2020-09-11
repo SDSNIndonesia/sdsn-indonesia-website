@@ -6,7 +6,7 @@ tags: []
 title: SDG Talk Show Presented by SDSN Indonesia
 desc: "<p></p>"
 fImage: "/uploads/sdg-talk-show.png"
-featuredToggle: false
+featuredToggle: true
 aboutAuthor: ''
 embeddedContent: []
 
