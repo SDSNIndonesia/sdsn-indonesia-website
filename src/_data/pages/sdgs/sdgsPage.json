@@ -23,6 +23,22 @@
       "featureCta": "Read full version of Indonesia’s VNR Report 2017",
       "featureCtaURL": "",
       "featureImg": ""
+    },
+    {
+      "featureHeader": "Voluntary National Review 2019",
+      "featureSubtitle": "<p>The focus on the 2019 VNR was on Empowering People and Ensuring Inclusiveness and Equality in Indonesia.</p><p>In line with the theme, Indonesia has made many remarkable achievements such as: </p><ul><li><p>Poverty has been reduced to single digit for the first time in history</p></li><li><p>Job opportunities and access to education increased at all levels</p></li><li><p>GHG emission and disaster risks were reduced. </p></li></ul><p>Remaining general challenges are universal access, equal opportunity and treatment for all.</p>",
+      "featureCta": "Read more",
+      "featureCtaURL": "",
+      "featureImg": "",
+      "pretextFeature": " "
+    },
+    {
+      "pretextFeature": "SDG INDEX",
+      "featureHeader": "Indonesia",
+      "featureSubtitle": "<p>As per SDG Index 2020, the top 3 SDGs that are ranked well in Indonesia are:</p><ol><li><p>Goal 4 Quality Education</p></li><li><p>Goal 12 Responsible Consumption and Production</p></li><li><p>Goal 13 Climate Action</p></li></ol><p>SDGs that are lowly ranked in Indonesia are:</p><ol><li><p>Goal 2 Zero Hunger</p></li><li><p>Goal 3 Good Health and Well-Being</p></li><li><p>Goal 6 Clean Water and Sanitation </p></li><li><p>Goal 9 Industry, Innovation and Infrastructure</p></li><li><p>Goal 15 Life on Land</p></li><li><p>Goal 17 Partnerships for the Goals</p></li></ol>",
+      "featureCta": "Read more",
+      "featureCtaURL": "https://sdgindex.org/reports/sustainable-development-report-2020/",
+      "featureImg": "/uploads/sdr-logo-icon-fc-white-text.svg"
     }
   ]
 }
