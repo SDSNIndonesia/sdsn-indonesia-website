@@ -87,5 +87,6 @@ fields:
   label: Embedded content
   description: 'Add any embedded content here. '
 pages:
+- src/content/news/2019-sdg-happiness-festival.md
 - src/content/news/indonesia-sdg-symposium-sustainability-science-and-solutions-in-the-era-of-the-sdgs.md
 - src/content/news/kura-kura-bali-creating-an-innovative-island-of-sustainable-solutions.md
