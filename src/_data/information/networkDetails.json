@@ -23,7 +23,7 @@
       "link": ""
     }
   ],
-  "impactSection": true,
+  "impactSection": false,
   "networkImpact": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu. Vivamus fermentum ex ut mauris feugiat convallis. Fusce cursus diam vel nunc lobortis, nec finibus orci lacinia.</p>",
   "networkMetrics": [
     {
@@ -39,8 +39,8 @@
       "desc": "<p>Member Institutions in the South Pole - covering academia, fisheries and ice cap management firms.</p>"
     }
   ],
-  "networkEmail": "antarc@unsdsn.org",
-  "websiteTitle": "SDSN Antarctica",
+  "networkEmail": "indonesia@unsdsn.org",
+  "websiteTitle": "SDSN Indonesia",
   "websiteURL": "https://sdsn-rn-network.netlify.app/",
   "membersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shr69E7ELoC9HAx5U?backgroundColor=blue&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
   "title": "Network Details"
