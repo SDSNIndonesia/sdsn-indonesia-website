@@ -1,6 +1,6 @@
 {
   "teamDesc": "<p>Our team works together to coordinate the network activities, engage with our members, and collaborate with other stakeholders within the country.</p>",
-  "leadershipCouncil": true,
+  "leadershipCouncil": false,
   "networkManagers": true,
   "youthCoordinators": true,
   "lcTitle": "Leadership Council",
@@ -27,11 +27,11 @@
   ],
   "nmProfiles": [
     {
-      "name": "John Name",
+      "name": "Fadelia Deby Subandi",
       "networkPosition": "Network Manager",
-      "position": "",
+      "position": "Project Officer SDGs Hub Universitas Indonesia",
       "photo": "/uploads/men-s-wearing-black-suit-jacket-and-pants-937481.jpg",
-      "email": ""
+      "email": "deby.fadelia@gmail.com"
     },
     {
       "name": "Marie Name",
@@ -51,5 +51,5 @@
     }
   ],
   "defaultPhoto": "/images/person.png",
-  "title": "The Team"
+  "title": "Network Team"
 }
