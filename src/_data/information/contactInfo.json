@@ -30,10 +30,10 @@
       "socialHeader": "Whatsapp"
     },
     {
-      "socialHeader": "Linkedin",
+      "socialHeader": "Youtube",
       "ctaTitle": "Connect with us",
-      "ctaLink": "https://facebook.com/unsdsn",
-      "platform": "Linkedin"
+      "ctaLink": "https://bit-ly/youtube-sdsnid",
+      "platform": "Custom"
     }
   ],
   "title": "Network Contact Information"
