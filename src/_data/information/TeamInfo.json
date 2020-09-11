@@ -7,7 +7,7 @@
   "nmTitle": "Network Managers",
   "youthTitle": "The Youth Team",
   "lcDesc": "<p>The Network is guided by a Leadership Council - made up of global sustainable development leaders from all regions and all sectors, including civil society, public, and private sectors.</p><p><em>Prof. Jatna Supriatna, M.Sc., Ph.D chairs the United Nations Sustainable Development Solutions Network Indonesia. After having finished his Master of Science (1986) and Doctorate degree (1991) from the University of New Mexico, USA, including pre- and post-doctoral at Columbia University in New York, Prof. Jatna Supriatna served as Senior lecturer at the Biology Dept., Director of Biodiversity and Conservation Studies, Coordinator of Graduate Program on Conservation Biology of the University of Indonesia and also a regular board of members and chair for several organizations.</em></p>",
-  "nmDesc": "Network Managers coordinate the network, working with Member Institutions to identify potential collaboration within the network.",
+  "nmDesc": "<p>Network Managers coordinate the network, working with Member Institutions to identify potential collaboration within the network.</p><p><em>Deby holds a B.A. with Honors in Psychology from University of Indonesia. She believes that understanding human behavior and its environment is important in changing our ways to live in a more sustainable way. She is passionate in conducting psychoeducation for mental health and psychological well-being issues, parenting, gender-based violence, human rights, and committed in learning from other diverse development challenges.</em></p>",
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
     {
@@ -16,20 +16,13 @@
       "position": "",
       "photo": "/uploads/prof-jatna.jpg",
       "email": "indonesia@unsdsn.org"
-    },
-    {
-      "name": "Sally by the Seashore",
-      "networkPosition": "Council Member",
-      "position": "",
-      "photo": "/uploads/men-s-wearing-black-suit-jacket-and-pants-937481.jpg",
-      "email": ""
     }
   ],
   "nmProfiles": [
     {
       "name": "Fadelia Deby Subandi",
-      "networkPosition": "Network Manager",
-      "position": "Program & Project - SDGs Hub Universitas Indonesia",
+      "networkPosition": "Network Manager, SDSN Indonesia",
+      "position": "Program & Project Manager, SDGs Hub Universitas Indonesia",
       "photo": "/uploads/82f6d9f9-d970-4463-b3dd-e8d2f7022fe6.jpeg",
       "email": "deby.fadelia@gmail.com"
     }
