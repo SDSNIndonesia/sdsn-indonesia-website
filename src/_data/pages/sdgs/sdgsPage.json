@@ -1,8 +1,8 @@
 {
   "title": "SDGs in Antarctica Page",
   "toggle": true,
-  "header": "SDGs in Antarctica",
-  "subtitle": "<p>Learn about action being taken in Antarctica on the SDGs.</p>",
+  "header": "SDGs in Indonesia",
+  "subtitle": "<p>Learn about action being taken in Indonesia on the SDGs.</p>",
   "sdgsHeader": "The Sustainable Development Goals",
   "sdgsSubtitle": "<p>In 2015, world leaders agreed to the 17 Sustainable Development Goals (SDGs) - a shared blueprint for peace, prosperity for people, and the planet, now and into the future. </p><p>The SDGs call for a global partnership to end poverty; improve health and education; reduce inequality; spur economic growth; and tackle climate change. </p>",
   "sdgsCta": "Learn more about the SDGs",
@@ -10,10 +10,18 @@
   "featuredActions": [
     {
       "pretextFeature": "ACTION BY",
-      "featureHeader": "Government",
-      "featureSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.",
-      "featureCta": "Read more on government website",
-      "featureCtaURL": "https://www.ke.undp.org/content/kenya/en/home/sustainable-development-goals.html",
+      "featureHeader": "SDSN Indonesia",
+      "featureSubtitle": "<p>The SDSN Indonesia network works very closely with youth and the University of Indonesia (UI) as Indonesia’s host institution. The UI’s “SDG Hub” was launched to foster the participation of academics, think-tanks, and students in the global SDG process and the SDSN network.</p>",
+      "featureCta": "",
+      "featureCtaURL": "",
+      "featureImg": ""
+    },
+    {
+      "pretextFeature": "ACTION BY",
+      "featureHeader": "Government: Voluntary National Review",
+      "featureSubtitle": "<p>Indonesia was part of the 2017 and 2019 Voluntary National Review (VNR) of the High-Level Political Forum (HLPF) on Sustainable Development Goals. </p><p>A VNR is a part of regular and follow-up review regarding SDG implementation processes in respective countries. These national reviews are expected to serve as a basis for the regular reviews by the High-Level Political Forum (HLPF) meeting under the auspices of ECOSOC</p><p>The regular reviews by HLPF are to be voluntary, state-led, undertaken by both developed and developing countries, and involve multiple stakeholders.</p><p>Based on the theme of poverty eradication and improving prosperity in VNR 2017, Indonesia’s VNR report focuses on two main aspects, namely </p><ol><li><p>Improving the quality of human resources; and</p></li><li><p>Enhancing economic opportunities for sustainable livelihood.</p></li></ol><p>Indonesia has made many efforts in poverty alleviation in the past 10 years, and has successfully reduced the percentage of population living in poverty from 17.75 percent (2006) to 10.7 percent (2016). </p><p>Not only in terms of number, the poverty severity and depth index have also decreased, even though the absolute number of poverty is still significant (22.76 million people). </p><p>To improve the quality of human resources, Indonesia focuses on achievements in the Health sector (Goal 3), Food Security and Sustainable Agriculture (Goal 2), and Education (Goal 4). </p><p>Furthermore, improving economic opportunities for sustainable livelihoods is achieved through increased efforts in the industrial sector, innovation and infrastructure (Goal 9) as well as marine ecosystem conservation and its sustainable use (Goal 14). </p><p>The two main aspects can be achieved with the support of enabling factors, namely gender (Goal 5), as well as partnerships in various sectors, data, and financing (Goal 17).</p>",
+      "featureCta": "Read full version of Indonesia’s VNR Report 2017",
+      "featureCtaURL": "",
       "featureImg": ""
     }
   ]
