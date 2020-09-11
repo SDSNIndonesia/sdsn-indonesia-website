@@ -13,39 +13,9 @@
   "featuredMembers": true,
   "tImages": [
     {
-      "tTitle": "Universitas Cenderawasih",
-      "tLink": "https://www.uncen.ac.id/",
-      "tImg": "/uploads/logo_uncen_web_color.png"
-    },
-    {
-      "tTitle": "SDGs Center Bengkulu",
-      "tLink": "",
-      "tImg": ""
-    },
-    {
-      "tTitle": "SDGs Center Unpad",
-      "tLink": "",
-      "tImg": ""
-    },
-    {
-      "tTitle": "Conservation International",
-      "tLink": "",
-      "tImg": ""
-    },
-    {
-      "tTitle": "Filantropi Indonesia",
-      "tLink": "",
-      "tImg": ""
-    },
-    {
-      "tTitle": "CSEAS",
-      "tLink": "",
-      "tImg": ""
-    },
-    {
-      "tTitle": "SDGs Center Hasanuddin",
-      "tLink": "",
-      "tImg": ""
+      "tTitle": "Belantara Foundation",
+      "tLink": "https://www.belantara.or.id",
+      "tImg": "/uploads/logo-header-belantara.svg"
     },
     {
       "tTitle": "United in Diversity",
@@ -53,9 +23,19 @@
       "tImg": "/uploads/uid-logo.png"
     },
     {
-      "tTitle": "Belantara Foundation",
-      "tLink": "https://www.belantara.or.id",
-      "tImg": "/uploads/logo-header-belantara.svg"
+      "tTitle": "Universitas Cenderawasih",
+      "tLink": "https://www.uncen.ac.id/",
+      "tImg": "/uploads/logo_uncen_web_color.png"
+    },
+    {
+      "tTitle": "Conservation International",
+      "tLink": "https://www.conservation.org",
+      "tImg": "/uploads/conservation-international.png"
+    },
+    {
+      "tTitle": "CSEAS",
+      "tLink": "https://cseasindonesia.com/",
+      "tImg": "/uploads/logo-cseas-highres_modified_410px-oqnvy8w8ddval50y4ui9nyno9qvjhc513ywoshiwoa.png"
     }
   ]
 }
