@@ -4,11 +4,7 @@ date: 2019-09-12T10:58:12+00:00
 author: Network Secretariat
 tags: []
 title: SDG Talk Show Presented by SDSN Indonesia
-desc: "<p>University of Indonesia (UI), Co-Chair of the Sustainable Development Solutions
-  Network (SDSN) Indonesia, together with Gerakan Indonesia Diet Kantong Plastik (GIDKP),
-  the SDSN Youth Indonesia, hosted the SDSN SDGs’ Talk Show with the theme “Indonesia’s
-  Achievement towards SDGs 2030 Agenda” at the local US Embassy’s Cultural Centre
-  know as @america in Jakarta. </p>"
+desc: "<p></p>"
 fImage: "/uploads/sdg-talk-show.png"
 featuredToggle: false
 aboutAuthor: ''

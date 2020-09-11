@@ -7,13 +7,7 @@ tags:
 - Role of universities
 title: SDSN Indonesia Explores the Roles of Universities in the Development and Implementation
   of the SDGs in Indonesia
-desc: '<p>The <a href="https://iser.sci.ui.ac.id/sustainable-development-center/"
-  title="Link: https://iser.sci.ui.ac.id/sustainable-development-center/">Sustainable
-  Development Goals Hub University of Indonesia (SDGs Hub UI)</a>, host of<br>Sustainable
-  Development Solutions Network (SDSN) <a href="https://www.unsdsn.org/indonesia"
-  title="Link: https://www.unsdsn.org/indonesia">Indonesia</a>, organized a half-day
-  workshop titled “Development and Implementation of the SDGs in Indonesia: The Role
-  of the University of Indonesia” to discuss localization of the SDGs. </p>'
+desc: "<p></p>"
 fImage: "/uploads/development-workshop.png"
 featuredToggle: false
 aboutAuthor: ''
