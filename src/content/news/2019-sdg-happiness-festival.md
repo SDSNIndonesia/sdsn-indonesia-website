@@ -5,10 +5,7 @@ author: SDSN Southeast Asia
 tags:
 - Happiness Festival
 title: 2019 SDG Happiness Festival
-desc: <p>For the second year in a row, the <a href="https://www.happinessfestival.id/">SDG
-  Happiness Festival</a> was hosted in Jakarta with support from the National Development
-  Planning Agency (Bappenas), SDSN Southeast Asia, Project Semesta, and United in
-  Diversity (UID).</p>
+desc: "<p></p>"
 fImage: ''
 featuredToggle: false
 aboutAuthor: ''
