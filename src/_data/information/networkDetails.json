@@ -1,6 +1,6 @@
 {
   "logo": "/uploads/indonesia-sdsn-logo.jpg",
-  "whitelogo": "/uploads/sdsn-antsarc.png",
+  "whitelogo": "/uploads/sdsn-example-logo-white.png",
   "favicon": "/uploads/indonesia-sdsn-logo.jpg",
   "networkName": "Indonesia",
   "networkDesc": "<p><em>SDSN Indonesia is a network of universities, non-governmental organizations, research centers and civil society organizations that links Indonesia’s institutions to the global discussion on universal agenda to increase the collaboration and development of long-term transformational pathways towards the Sustainable Development Goals.</em></p>",
@@ -23,25 +23,25 @@
       "link": ""
     }
   ],
-  "impactSection": false,
-  "networkImpact": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu. Vivamus fermentum ex ut mauris feugiat convallis. Fusce cursus diam vel nunc lobortis, nec finibus orci lacinia.</p>",
+  "impactSection": true,
+  "networkImpact": "<p>We link Indonesian experts to engage in global discussion on universal agenda - Agenda 2030 and the Sustainable Development Goals.</p>",
   "networkMetrics": [
     {
-      "header": "3 years",
-      "desc": "<p>Awarded the Sustainability Award in Antarctica, 3 years in a row.</p>"
+      "header": "2013",
+      "desc": "<p>Launched in <strong>2013.</strong></p>"
     },
     {
-      "header": "129",
-      "desc": "<p>Scored 129 in the Antarctic region for driving SDG implementation.</p>"
+      "header": "35",
+      "desc": "<p>Members Institutions across the country.</p>"
     },
     {
-      "header": "20",
-      "desc": "<p>Member Institutions in the South Pole - covering academia, fisheries and ice cap management firms.</p>"
+      "header": "12",
+      "desc": "<p>events run per year.</p>"
     }
   ],
   "networkEmail": "indonesia@unsdsn.org",
   "websiteTitle": "SDSN Indonesia",
-  "websiteURL": "https://sdsn-rn-network.netlify.app/",
-  "membersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shr69E7ELoC9HAx5U?backgroundColor=blue&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
+  "websiteURL": "https://sdsn-indonesia.netlify.app/",
+  "membersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shrUp9RAjx9FJe6br?backgroundColor=blue&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
   "title": "Network Details"
 }
