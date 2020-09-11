@@ -24,16 +24,16 @@
       "ctaLink": "https://instagram.com/unsdsnid"
     },
     {
-      "platform": "Whatsapp",
-      "ctaTitle": "Message us on Whatsapp",
-      "ctaLink": "https://",
-      "socialHeader": "Whatsapp"
-    },
-    {
       "socialHeader": "Youtube",
       "ctaTitle": "Connect with us",
       "ctaLink": "https://bit-ly/youtube-sdsnid",
       "platform": "Custom"
+    },
+    {
+      "platform": "Whatsapp",
+      "ctaTitle": "Message us on Whatsapp",
+      "ctaLink": "https://wa.me/6281802909788",
+      "socialHeader": "Whatsapp"
     }
   ],
   "title": "Network Contact Information"
