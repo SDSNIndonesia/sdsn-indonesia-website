@@ -7,7 +7,7 @@ tags:
 - Report
 - Indonesia
 - Network
-fImage: "/uploads/network-in-action-2019-indonesia.pdf"
+fImage: "/uploads/sdsn-2019-networks-report-cover.jpg"
 title: Network in Action 2019 Report - Indonesia
 desc: "<p>The 2019 Networks in Action report features the wide array of innovative
   solutions and initiatives being led by the SDSN’s national, regional, and thematic
@@ -16,10 +16,10 @@ desc: "<p>The 2019 Networks in Action report features the wide array of innovati
   of higher education, advanced research, and policy analysis, and convening multi-stakeholder
   deliberations towards the SDGs.</p><p>Attached is SDSN Indonesia's 2019 Network
   in Action report. </p>"
-ctaTitle: ''
-mainUploadToggle: false
+ctaTitle: Download the report
+mainUploadToggle: true
 ctaURL: ''
-file: ''
+file: "/uploads/network-in-action-2019-indonesia.pdf"
 featuredToggle: true
 oResources: Full Report
 otherResources:
