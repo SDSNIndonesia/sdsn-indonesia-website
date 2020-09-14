@@ -9,6 +9,16 @@
   "sdgsCtaURL": "https://www.undp.org/content/undp/en/home/sustainable-development-goals.html",
   "featuredActions": [
     {
+      "pretextFeature": "ACTION BY GOVERNMENT",
+      "featureHeader": "Bappenas (National Development Agency)",
+      "featureSubtitle": "",
+      "featureCta": "Learn more",
+      "uploadToggle": false,
+      "resourceFile": "",
+      "featureCtaURL": "https://sdgsindonesia.or.id/",
+      "featureImg": ""
+    },
+    {
       "pretextFeature": "ACTION BY",
       "featureHeader": "SDSN Indonesia",
       "featureSubtitle": "<p>The SDSN Indonesia network works very closely with youth and the University of Indonesia (UI) as Indonesia’s host institution. The UI’s “SDG Hub” was launched to foster the participation of academics, think-tanks, and students in the global SDG process and the SDSN network.</p>",
@@ -27,16 +37,6 @@
       "featureImg": "",
       "uploadToggle": true,
       "resourceFile": "/uploads/voluntary-national-review-vnr-2017.pdf"
-    },
-    {
-      "featureHeader": "Voluntary National Review 2019",
-      "featureSubtitle": "<p>The focus on the 2019 VNR was on Empowering People and Ensuring Inclusiveness and Equality in Indonesia.</p><p>In line with the theme, Indonesia has made many remarkable achievements such as: </p><ul><li><p>Poverty has been reduced to single digit for the first time in history</p></li><li><p>Job opportunities and access to education increased at all levels</p></li><li><p>GHG emission and disaster risks were reduced. </p></li></ul><p>Remaining general challenges are universal access, equal opportunity and treatment for all.</p>",
-      "featureCta": "Read more",
-      "featureCtaURL": "https://drive.google.com/file/d/1Dq8Z7jIEALaAmBMcctlG9q7FgtlEYSLa/view",
-      "featureImg": "",
-      "pretextFeature": " ",
-      "uploadToggle": false,
-      "resourceFile": ""
     },
     {
       "pretextFeature": "SDG INDEX",
