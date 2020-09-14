@@ -3,7 +3,10 @@ pageTitle: Resource
 date: 2020-09-14T06:35:20+00:00
 author: Network Secretariat
 resourcesToggle: true
-tags: []
+tags:
+- Report
+- Indonesia
+- Network
 fImage: "/uploads/network-in-action-2019-indonesia.pdf"
 title: Network in Action 2019 Report - Indonesia
 desc: "<p>The 2019 Networks in Action report features the wide array of innovative
