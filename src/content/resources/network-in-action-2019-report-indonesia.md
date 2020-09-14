@@ -29,3 +29,8 @@ otherResources:
   resourceURL: https://irp-cdn.multiscreensite.com/be6d1d56/files/uploaded/SDSN%202019%20networks%20report.pdf
 
 ---
+The 2019 Networks in Action report features the wide array of innovative solutions and initiatives being led by the SDSN’s national, regional, and thematic networks.
+
+This edition shows how our networks are deepening their partnerships with governments, the private business sector, and civil society, developing programs of higher education, advanced research, and policy analysis, and convening multi-stakeholder deliberations towards the SDGs.
+
+Attached is SDSN Indonesia's 2019 Network in Action report.
