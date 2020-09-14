@@ -19,15 +19,15 @@
   "socialMediaProfiles": [
     {
       "platform": "Instagram",
-      "socialHeader": "Instagram (Youth)",
-      "ctaTitle": "Follow us on Instagram!",
-      "ctaLink": "https://instagram.com/sdsnyouthid"
-    },
-    {
-      "platform": "Instagram",
       "socialHeader": "Instagram",
       "ctaTitle": "Follow us on Instagram!",
       "ctaLink": "https://instagram.com/unsdsnid"
+    },
+    {
+      "platform": "Instagram",
+      "socialHeader": "Instagram (Youth)",
+      "ctaTitle": "Follow us on Instagram!",
+      "ctaLink": "https://instagram.com/sdsnyouthid"
     },
     {
       "socialHeader": "Youtube",
