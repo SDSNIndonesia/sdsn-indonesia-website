@@ -9,16 +9,6 @@
   "sdgsCtaURL": "https://www.undp.org/content/undp/en/home/sustainable-development-goals.html",
   "featuredActions": [
     {
-      "pretextFeature": "ACTION BY GOVERNMENT",
-      "featureHeader": "Bappenas (National Development Agency)",
-      "featureSubtitle": "",
-      "featureCta": "Learn more",
-      "uploadToggle": false,
-      "resourceFile": "",
-      "featureCtaURL": "https://sdgs.bappenas.go.id/tentang/",
-      "featureImg": "/uploads/logo-seknas-sdg.png"
-    },
-    {
       "pretextFeature": "ACTION BY",
       "featureHeader": "SDSN Indonesia",
       "featureSubtitle": "<p>The SDSN Indonesia network works very closely with youth and the University of Indonesia (UI) as Indonesia’s host institution. The UI’s “SDG Hub” was launched to foster the participation of academics, think-tanks, and students in the global SDG process and the SDSN network.</p>",
@@ -37,6 +27,16 @@
       "featureImg": "",
       "uploadToggle": true,
       "resourceFile": "/uploads/voluntary-national-review-vnr-2017.pdf"
+    },
+    {
+      "pretextFeature": "ACTION BY GOVERNMENT",
+      "featureHeader": "Bappenas (National Development Agency)",
+      "featureSubtitle": "",
+      "featureCta": "Learn more",
+      "uploadToggle": false,
+      "resourceFile": "",
+      "featureCtaURL": "https://sustainabledevelopment.un.org/memberstates/indonesia",
+      "featureImg": "/uploads/logo-seknas-sdg.png"
     },
     {
       "pretextFeature": "SDG INDEX",
