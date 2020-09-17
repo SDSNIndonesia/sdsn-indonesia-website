@@ -7,24 +7,28 @@ featuredToggle: true
 tags:
 - Report
 file: "/uploads/network-in-action-2019-indonesia.pdf"
-desc: The Sustainable Development Report 2020 presents the SDG Index and Dashboards
-  for all UN member states and frames the implementation of the Sustainable Development
-  Goals (SDGs) in terms of six broad transformations. It was prepared by teams of
-  independent experts at the Sustainable Development Solutions Network (SDSN) and
-  the Bertelsmann Stiftung.
+desc: "<p>The 2019 Networks in Action report features the wide array of innovative
+  solutions and initiatives being led by the SDSN’s national, regional, and thematic
+  networks.</p><p>This edition shows how our networks are deepening their partnerships
+  with governments, the private business sector, and civil society, developing programs
+  of higher education, advanced research, and policy analysis, and convening multi-stakeholder
+  deliberations towards the SDGs.</p><p>Attached is SDSN Indonesia's 2019 Network
+  in Action report.</p>"
 ctaURL: https://www.sdgindex.org/
 ctaTitle: Download the report
 resourcesToggle: true
 oResources: Download the data
 otherResources:
 - resourceFile: "/uploads/other_resource_example.pdf"
-  oResourceContent: 2019 Results (STATA View on Github)
+  oResourceContent: Full Report
   uploadToggle: false
-  resourceURL: ''
+  resourceURL: https://irp-cdn.multiscreensite.com/be6d1d56/files/uploaded/SDSN%202019%20networks%20report.pdf
 pageTitle: ''
 mainUploadToggle: true
 
 ---
-The Sustainable Development Report 2020 presents the SDG Index and Dashboards for all UN member states and frames the implementation of the Sustainable Development Goals (SDGs) in terms of six broad transformations. It was prepared by teams of independent experts at the Sustainable Development Solutions Network (SDSN) and the Bertelsmann Stiftung.
+The 2019 Networks in Action report features the wide array of innovative solutions and initiatives being led by the SDSN’s national, regional, and thematic networks.
 
-Attached is the SDR 2020 Report for Indonesia.
+This edition shows how our networks are deepening their partnerships with governments, the private business sector, and civil society, developing programs of higher education, advanced research, and policy analysis, and convening multi-stakeholder deliberations towards the SDGs.
+
+Attached is SDSN Indonesia's 2019 Network in Action report.
