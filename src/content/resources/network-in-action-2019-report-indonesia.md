@@ -1,6 +1,6 @@
 ---
 pageTitle: Resource
-date: 2020-09-14T06:35:20+00:00
+date: 2020-09-14T06:35:20.000+00:00
 author: Network Secretariat
 resourcesToggle: true
 tags:
@@ -17,8 +17,8 @@ desc: "<p>The 2019 Networks in Action report features the wide array of innovati
   deliberations towards the SDGs.</p><p>Attached is SDSN Indonesia's 2019 Network
   in Action report. </p>"
 ctaTitle: Download the report
-mainUploadToggle: true
-ctaURL: ''
+mainUploadToggle: false
+ctaURL: Download the report
 file: "/uploads/network-in-action-2019-indonesia.pdf"
 featuredToggle: true
 oResources: Full Report
