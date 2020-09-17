@@ -1,6 +1,6 @@
 {
   "title": "Events Landing Page",
-  "toggle": true,
+  "toggle": false,
   "header": "Events",
   "subtitle": "<p>See our latest events.</p>",
   "previousPageText": "Go back to Events"
