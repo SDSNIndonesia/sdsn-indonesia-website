@@ -1,6 +1,6 @@
 ---
 pageTitle: News Stories Pages
-date: 2020-07-04T11:02:14+00:00
+postDate: 2020-07-04T11:02:14+00:00
 author: Network Secretariat
 tags:
 - Webinar

@@ -1,6 +1,6 @@
 ---
 pageTitle: News Stories Pages
-date: 2018-04-29T11:06:09+00:00
+postDate: 2018-04-29T11:06:09+00:00
 author: Network Secretariat
 tags:
 - SDG Pyramid

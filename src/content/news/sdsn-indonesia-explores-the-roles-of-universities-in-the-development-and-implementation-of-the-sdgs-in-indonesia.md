@@ -1,6 +1,6 @@
 ---
 pageTitle: News Stories Pages
-date: 2020-01-24T11:00:38+00:00
+postDate: 2020-01-24T11:00:38+00:00
 author: SDSN Indonesia
 tags:
 - Workshop

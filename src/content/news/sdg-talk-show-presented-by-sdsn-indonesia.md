@@ -1,6 +1,6 @@
 ---
 pageTitle: News Stories Pages
-date: 2019-09-12T10:58:12+00:00
+postDate: 2019-09-12T10:58:12+00:00
 author: Network Secretariat
 tags: []
 title: SDG Talk Show Presented by SDSN Indonesia
