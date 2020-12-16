@@ -6,7 +6,7 @@ fImage: "/uploads/cover-sdsn-youth-impact.jpg"
 featuredToggle: true
 tags:
 - Report
-file: "/uploads/network-in-action-2019-indonesia.pdf"
+file: "/uploads/indonesia-sdsny_impact-report-2020_updated.pdf"
 desc: "<p>The UN Sustainable Development Solutions Network - Youth released its first
   annual report which celebrates 5 years of youth action and achievement accomplished
   by a growing network of SDG youth advocates across the globe. Read the report to
@@ -23,7 +23,7 @@ otherResources:
   uploadToggle: false
   resourceURL: https://irp-cdn.multiscreensite.com/be6d1d56/files/uploaded/SDSN%202019%20networks%20report.pdf
 pageTitle: ''
-mainUploadToggle: false
+mainUploadToggle: true
 
 ---
 The UN Sustainable Development Solutions Network - Youth released its first annual report which celebrates 5 years of youth action and achievement accomplished by a growing network of SDG youth advocates across the globe. Read the report to learn more about what we do at SDSN Youth and how we are contributing to the advancement of the SDGs! 
