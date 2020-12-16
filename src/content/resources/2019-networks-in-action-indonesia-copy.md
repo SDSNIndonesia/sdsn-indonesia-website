@@ -1,20 +1,19 @@
 ---
-title: 2019 Networks in Action - Indonesia-(copy)
+title: 2020 Networks in Action - Indonesia-(copy)
 postDate: 2012-07-27T01:00:00.000+00:00
 author: SDSN Secretariat
-fImage: "/uploads/sdsn-2019-networks-report-cover.jpg"
+fImage: "/uploads/sdsn-network_2020-web-copy_page_01.jpg"
 featuredToggle: true
 tags:
 - Report
 file: "/uploads/network-in-action-2019-indonesia.pdf"
-desc: "<p>The 2019 Networks in Action report features the wide array of innovative
-  solutions and initiatives being led by the SDSN’s national, regional, and thematic
-  networks.</p><p>This edition shows how our networks are deepening their partnerships
-  with governments, the private business sector, and civil society, developing programs
-  of higher education, advanced research, and policy analysis, and convening multi-stakeholder
-  deliberations towards the SDGs.</p><p>Attached is SDSN Indonesia's 2019 Network
-  in Action report.</p>"
-ctaURL: https://drive.google.com/file/d/1fECUfiW_AiOu9gzYv-dBm43anZOreDoi/view?usp=sharing
+desc: "<p>The 2020 Networks in Action report features the innovative solutions and
+  partnerships being led by the SDSN’s networks. This edition highlights the flagship
+  initiatives and global collaboration from our 37 national and regional networks
+  and 5 thematic networks, and includes a special introduction on how the SDSN networks
+  are working together to respond to the COVID-19 pandemic and achieve the SDGs.</p><p>Attached
+  is SDSN Indonesia's 2019 Network in Action report.</p>"
+ctaURL: https://irp-cdn.multiscreensite.com/be6d1d56/files/uploaded/SDSN%20Networks%20in%20Action_2020%20DB.pdf
 ctaTitle: Download the report
 resourcesToggle: true
 oResources: Download the data
@@ -27,8 +26,6 @@ pageTitle: ''
 mainUploadToggle: false
 
 ---
-The 2019 Networks in Action report features the wide array of innovative solutions and initiatives being led by the SDSN’s national, regional, and thematic networks.
-
-This edition shows how our networks are deepening their partnerships with governments, the private business sector, and civil society, developing programs of higher education, advanced research, and policy analysis, and convening multi-stakeholder deliberations towards the SDGs.
+The 2020 Networks in Action report features the innovative solutions and partnerships being led by the SDSN’s networks. This edition highlights the flagship initiatives and global collaboration from our 37 national and regional networks and 5 thematic networks, and includes a special introduction on how the SDSN networks are working together to respond to the COVID-19 pandemic and achieve the SDGs.
 
 Attached is SDSN Indonesia's 2019 Network in Action report.
