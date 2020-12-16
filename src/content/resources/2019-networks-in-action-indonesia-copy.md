@@ -1,5 +1,5 @@
 ---
-title: 2020 Networks in Action - Indonesia
+title: Networks in Action 2020 - Indonesia
 postDate: 2012-07-27T01:00:00.000+00:00
 author: SDSN Secretariat
 fImage: "/uploads/sdsn-network_2020-web-copy_page_01.jpg"
