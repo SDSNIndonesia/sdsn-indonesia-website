@@ -24,3 +24,4 @@ oResources: ''
 otherResources: []
 
 ---
+Read full version: [https://indonesia.unsdsn.org/content/resources/sdsn-youth-impact-report-2020/](https://indonesia.unsdsn.org/content/resources/sdsn-youth-impact-report-2020/ "https://indonesia.unsdsn.org/content/resources/sdsn-youth-impact-report-2020/")
