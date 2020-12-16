@@ -1,20 +1,20 @@
 ---
 title: SDSN Youth Impact Report 2020 - Indonesia
 postDate: 2012-07-27T01:00:00.000+00:00
-author: SDSN Secretariat
-fImage: "/uploads/sdsn-2019-networks-report-cover.jpg"
+author: SDSN Youth Secretariat
+fImage: "/uploads/cover-sdsn-youth-impact.pdf"
 featuredToggle: true
 tags:
 - Report
 file: "/uploads/network-in-action-2019-indonesia.pdf"
-desc: "<p>The 2019 Networks in Action report features the wide array of innovative
-  solutions and initiatives being led by the SDSN’s national, regional, and thematic
-  networks.</p><p>This edition shows how our networks are deepening their partnerships
-  with governments, the private business sector, and civil society, developing programs
-  of higher education, advanced research, and policy analysis, and convening multi-stakeholder
-  deliberations towards the SDGs.</p><p>Attached is SDSN Indonesia's 2019 Network
-  in Action report.</p>"
-ctaURL: https://drive.google.com/file/d/1fECUfiW_AiOu9gzYv-dBm43anZOreDoi/view?usp=sharing
+desc: '<p>The UN Sustainable Development Solutions Network - Youth released its first
+  annual report which celebrates 5 years of youth action and achievement accomplished
+  by a growing network of SDG youth advocates across the globe. Read the report to
+  learn more about what we do at SDSN Youth and how we are contributing to the advancement
+  of the SDGs! Correction: In page 67, SDSN Youth South Asia is hosted by The Energy
+  and Resources Institute (TERI).</p><p></p><p>Full version: <a href="https://indonesia.unsdsn.org/content/resources/sdsn-youth-impact-report-2020/"
+  title="https://indonesia.unsdsn.org/content/resources/sdsn-youth-impact-report-2020/">https://indonesia.unsdsn.org/content/resources/sdsn-youth-impact-report-2020/</a></p>'
+ctaURL: https://sdsnyouth.org/blog-posts/2020/11/25/just-launched-sdsn-youth-impact-report-2020
 ctaTitle: Download the report
 resourcesToggle: true
 oResources: Download the data
@@ -27,8 +27,8 @@ pageTitle: ''
 mainUploadToggle: false
 
 ---
-The 2019 Networks in Action report features the wide array of innovative solutions and initiatives being led by the SDSN’s national, regional, and thematic networks.
+The UN Sustainable Development Solutions Network - Youth released its first annual report which celebrates 5 years of youth action and achievement accomplished by a growing network of SDG youth advocates across the globe. Read the report to learn more about what we do at SDSN Youth and how we are contributing to the advancement of the SDGs! Correction: In page 67, SDSN Youth South Asia is hosted by The Energy and Resources Institute (TERI).
 
-This edition shows how our networks are deepening their partnerships with governments, the private business sector, and civil society, developing programs of higher education, advanced research, and policy analysis, and convening multi-stakeholder deliberations towards the SDGs.
+Attached is the SDSN Youth Indonesia's report.
 
-Attached is SDSN Indonesia's 2019 Network in Action report.
+Full version: [https://indonesia.unsdsn.org/content/resources/sdsn-youth-impact-report-2020/](https://indonesia.unsdsn.org/content/resources/sdsn-youth-impact-report-2020/ "https://indonesia.unsdsn.org/content/resources/sdsn-youth-impact-report-2020/")
