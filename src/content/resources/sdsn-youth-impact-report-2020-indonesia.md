@@ -18,7 +18,7 @@ ctaTitle: Download the report
 resourcesToggle: true
 oResources: Download the data
 otherResources:
-- resourceFile: ''
+- resourceFile: "/uploads/indonesia-sdsny_impact-report-2020_updated.pdf"
   oResourceContent: Full Report
   uploadToggle: true
   resourceURL: https://irp-cdn.multiscreensite.com/be6d1d56/files/uploaded/SDSN%202019%20networks%20report.pdf
