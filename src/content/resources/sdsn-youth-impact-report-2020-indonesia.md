@@ -2,7 +2,7 @@
 title: SDSN Youth Impact Report 2020 - Indonesia
 postDate: 2012-07-27T01:00:00.000+00:00
 author: SDSN Youth Secretariat
-fImage: "/uploads/cover-sdsn-youth-impact.pdf"
+fImage: "/uploads/cover-sdsn-youth-impact.jpg"
 featuredToggle: true
 tags:
 - Report
