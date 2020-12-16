@@ -1,5 +1,5 @@
 ---
-title: 2019 Networks in Action - Indonesia
+title: Networks in Action 2019 - Indonesia
 postDate: 2012-07-27T01:00:00.000+00:00
 author: SDSN Secretariat
 fImage: "/uploads/sdsn-2019-networks-report-cover.jpg"
