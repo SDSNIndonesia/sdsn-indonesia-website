@@ -7,7 +7,9 @@ tags:
 - World Water Day
 - SDG 6
 title: 'The Value of Water: An Indonesian Perspective'
-desc: ''
+desc: <p>SDSN Indonesia in collaboration with Atamerica (U.S Embassy) organized a
+  webinar, titled <em>What Does Water Mean To You?</em> to commemorate <a href="https://www.worldwaterday.org/">World
+  Water Day</a>, celebrated on March 22nd.</p>
 fImage: "/uploads/25-march-2021-water2me-what-does-water-mean-to-you_1.png"
 featuredToggle: true
 aboutAuthor: ''
