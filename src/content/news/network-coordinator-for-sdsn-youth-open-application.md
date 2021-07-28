@@ -6,7 +6,7 @@ tags:
 - SDSN Youth
 title: 'Network Coordinator for SDSN Youth: Open Application!'
 desc: ''
-fImage: ''
+fImage: "/uploads/sdsn-youth-logo.png"
 featuredToggle: true
 aboutAuthor: ''
 embeddedContent: []
@@ -35,21 +35,14 @@ The Network Coordinator is a key position in understanding the state of youth mo
   * Develop a work-plans and follow up with local volunteers regularly to ensure that activities are on track
   * Prepare timely and high quality quarterly reports to the Global Office in compliance with internal reporting guidelines.
   * Build a Partnership team to identify appropriate future partners for implementation of the Youth Program
-
 * Managing of their network
-
-
 * Engaging the Member Organizations within the network by identifying areas for collaboration, sharing resources, and networks.
 * Connect SDSN Youth members (SDSN Youth Member Organizations, SDG Coordinators, Global Schools Advocates, Vatican Youth Symposium speakers) and external members with each other
 * Manage a list of stakeholders and their needs, challenges, skills, and expertise
-
-
 * Admin and Governance
   * Managing your network’s communication channels: email, social media, mailing lists, etc.
   * Researching, documenting and maintaining the contributions of SDSN Youth in the network
   * Managing a team of local volunteers to help with the above responsibilities
-
-
 * \[optional\] Managing a translation taskforce
   * Managing a team of volunteers to translate SDSN Youth and relevant SDG material to increase accessibility to local youth
 
